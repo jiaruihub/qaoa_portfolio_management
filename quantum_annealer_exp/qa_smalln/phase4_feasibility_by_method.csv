@@ -1,0 +1,6 @@
+method,feasible_rate,mean_penalty,max_penalty,n_runs
+dwave_hybrid,1.0,0.0,0.0,12
+dwave_qpu,1.0,0.0,0.0,12
+exact,1.0,0.0,0.0,12
+sa,1.0,0.0,0.0,12
+tabu,1.0,0.0,0.0,12

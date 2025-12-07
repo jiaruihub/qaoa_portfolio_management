@@ -1,0 +1,4 @@
+method,feasible_rate,mean_penalty,max_penalty,n_runs
+exact,1.0,0.0,0.0,6
+sa,1.0,0.0,0.0,12
+tabu,1.0,0.0,0.0,12
